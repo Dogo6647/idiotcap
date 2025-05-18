@@ -24,5 +24,5 @@ python3 idiotcap.py
 And yeah, that's it.
 To visit IdiotCap Live from another device, go to:
 ```plaintext
-https://{your host's ip}:5000/
+http://{your host's ip}:5000/
 ```
